@@ -44,7 +44,7 @@ Whether you're a beginner trying to understand how algorithms work or an experie
 
 ## 🧪 In Progress
 
-Check out the [MVP Overview](src/docs/mvp-overview.md) for detailed milestones.
+Check out the [MVP Overview](src/Docs/mvp-overview.md) for detailed milestones.
 
 Planned features include:
 - Step-by-step code tracing
